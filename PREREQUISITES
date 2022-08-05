@@ -1,0 +1,9 @@
+Ensure that you have the following for both GPU and CPU Installations:
+PyCharm Community
+Anaconda
+
+Ensure that you have the following installed if you are doing the GPU Implementation:
+NVIDIA Drivers (Updated to Latest)
+CUDA Toolkit 11.1
+
+Install easyocr which is an open source model for text recognition and character reading
