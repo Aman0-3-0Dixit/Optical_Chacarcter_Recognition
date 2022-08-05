@@ -1,0 +1,2 @@
+# Optical_Chacarcter_Recognition
+Its a text reader that is made in python using OpenCV which can read text of a input static image or a input video or can be set to webcam mode to read the characters on a document live on webcam. It requires CUDA toolkit to run the processing on GPU instead of CPU which makes it more efficient and fast and can give upto 20 -22 frame per second and if the toolkit is not present it will automatically shift to CPU for processing and only gives 2 fps .
